@@ -1,4 +1,4 @@
-package com.grocer.helloworld;
+package com.ainsleyc.grocer;
 
 import java.io.IOException;
 import java.io.PrintWriter;

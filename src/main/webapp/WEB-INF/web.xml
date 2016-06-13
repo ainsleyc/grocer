@@ -5,7 +5,7 @@
   version="2.5">
   <servlet>
     <servlet-name>hello</servlet-name>
-    <servlet-class>com.grocer.helloworld.HelloServlet</servlet-class>
+    <servlet-class>com.ainsleyc.grocer.HelloServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>hello</servlet-name>
